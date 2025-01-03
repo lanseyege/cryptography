@@ -1,0 +1,548 @@
+MD5_a0: 1732584193
+MD5_b0: 4023233417
+MD5_c0: 2562383102
+MD5_d0: 271733878
+me len : 0
+message : 
+_temp: €
+new message: 0x55c2be5b9f20
+new len is: 2
+ size of : 8 4
+new message: 0x55c2be5b9f20
+new len: 16
+10000000000000000000000000000000 2147483648
+00000000000000000000000000000000 0
+00000000000000000000000000000000 0
+00000000000000000000000000000000 0
+00000000000000000000000000000000 0
+00000000000000000000000000000000 0
+00000000000000000000000000000000 0
+00000000000000000000000000000000 0
+00000000000000000000000000000000 0
+00000000000000000000000000000000 0
+00000000000000000000000000000000 0
+00000000000000000000000000000000 0
+00000000000000000000000000000000 0
+00000000000000000000000000000000 0
+00000000000000000000000000000000 0
+00000000000000000000000000000000 0
+chunk len: 1
+md5 a b c d 1732584193 4023233417 2562383102 271733878
+ md5 f: 1466606711
+ md5 a: 271733878
+ md5 d: 2562383102
+ md5 c: 4023233417
+ md5 b: 2770331444
+ md5 g: 0
+ new_message[ i * chunk_len + MD5_g]: 2147483648
+_left_shift(MD5_F, MD5_S[j]): 3042065323
+ md5 f: 3064448918
+ md5 a: 2562383102
+ md5 d: 4023233417
+ md5 c: 2770331444
+ md5 b: 563696286
+ md5 g: 1
+ new_message[ i * chunk_len + MD5_g]: 0
+_left_shift(MD5_F, MD5_S[j]): 2088332138
+ md5 f: 2889431278
+ md5 a: 4023233417
+ md5 d: 2770331444
+ md5 c: 563696286
+ md5 b: 2474027792
+ md5 g: 2
+ new_message[ i * chunk_len + MD5_g]: 0
+_left_shift(MD5_F, MD5_S[j]): 1910331506
+ md5 f: 3601121451
+ md5 a: 2770331444
+ md5 d: 563696286
+ md5 c: 2474027792
+ md5 b: 3194770496
+ md5 g: 3
+ new_message[ i * chunk_len + MD5_g]: 0
+_left_shift(MD5_F, MD5_S[j]): 720742704
+ md5 f: 781252993
+ md5 a: 563696286
+ md5 d: 2474027792
+ md5 c: 3194770496
+ md5 b: 115938519
+ md5 g: 4
+ new_message[ i * chunk_len + MD5_g]: 0
+_left_shift(MD5_F, MD5_S[j]): 1216135319
+ md5 f: 10475528
+ md5 a: 2474027792
+ md5 d: 3194770496
+ md5 c: 115938519
+ md5 b: 74028256
+ md5 g: 5
+ new_message[ i * chunk_len + MD5_g]: 0
+_left_shift(MD5_F, MD5_S[j]): 4253057033
+ md5 f: 4195632611
+ md5 a: 3194770496
+ md5 d: 115938519
+ md5 c: 74028256
+ md5 b: 2419165448
+ md5 g: 6
+ new_message[ i * chunk_len + MD5_g]: 0
+_left_shift(MD5_F, MD5_S[j]): 2345137192
+ md5 f: 3265035800
+ md5 a: 115938519
+ md5 d: 74028256
+ md5 c: 2419165448
+ md5 b: 375533607
+ md5 g: 7
+ new_message[ i * chunk_len + MD5_g]: 0
+_left_shift(MD5_F, MD5_S[j]): 2251335455
+ md5 f: 2157130351
+ md5 a: 74028256
+ md5 d: 2419165448
+ md5 c: 375533607
+ md5 b: 1610311655
+ md5 g: 8
+ new_message[ i * chunk_len + MD5_g]: 0
+_left_shift(MD5_F, MD5_S[j]): 1234778048
+ md5 f: 638661822
+ md5 a: 2419165448
+ md5 d: 375533607
+ md5 c: 1610311655
+ md5 b: 1934051912
+ md5 g: 9
+ new_message[ i * chunk_len + MD5_g]: 0
+_left_shift(MD5_F, MD5_S[j]): 323740257
+ md5 f: 3885258528
+ md5 a: 375533607
+ md5 d: 1610311655
+ md5 c: 1934051912
+ md5 b: 562633072
+ md5 g: 10
+ new_message[ i * chunk_len + MD5_g]: 0
+_left_shift(MD5_F, MD5_S[j]): 2923548456
+ md5 f: 523400876
+ md5 a: 1610311655
+ md5 d: 1934051912
+ md5 c: 562633072
+ md5 b: 3432048141
+ md5 g: 11
+ new_message[ i * chunk_len + MD5_g]: 0
+_left_shift(MD5_F, MD5_S[j]): 2869415069
+ md5 f: 4283597129
+ md5 a: 1934051912
+ md5 d: 562633072
+ md5 c: 3432048141
+ md5 b: 1976666892
+ md5 g: 12
+ new_message[ i * chunk_len + MD5_g]: 0
+_left_shift(MD5_F, MD5_S[j]): 2839586047
+ md5 f: 3044560471
+ md5 a: 562633072
+ md5 d: 3432048141
+ md5 c: 1976666892
+ md5 b: 4206298723
+ md5 g: 13
+ new_message[ i * chunk_len + MD5_g]: 0
+_left_shift(MD5_F, MD5_S[j]): 2229631831
+ md5 f: 1016348426
+ md5 a: 3432048141
+ md5 d: 1976666892
+ md5 c: 4206298723
+ md5 b: 2026602379
+ md5 g: 14
+ new_message[ i * chunk_len + MD5_g]: 0
+_left_shift(MD5_F, MD5_S[j]): 2115270952
+ md5 f: 2480436277
+ md5 a: 1976666892
+ md5 d: 4206298723
+ md5 c: 2026602379
+ md5 b: 2251322792
+ md5 g: 15
+ new_message[ i * chunk_len + MD5_g]: 0
+_left_shift(MD5_F, MD5_S[j]): 224720413
+ md5 f: 3999804950
+ md5 a: 4206298723
+ md5 d: 2026602379
+ md5 c: 2251322792
+ md5 b: 1396062341
+ md5 g: 1
+ new_message[ i * chunk_len + MD5_g]: 0
+_left_shift(MD5_F, MD5_S[j]): 3439706845
+ md5 f: 2435445316
+ md5 a: 2026602379
+ md5 d: 2251322792
+ md5 c: 1396062341
+ md5 b: 2803548583
+ md5 g: 6
+ new_message[ i * chunk_len + MD5_g]: 0
+_left_shift(MD5_F, MD5_S[j]): 1407486242
+ md5 f: 1983914881
+ md5 a: 2251322792
+ md5 d: 1396062341
+ md5 c: 2803548583
+ md5 b: 2952470327
+ md5 g: 11
+ new_message[ i * chunk_len + MD5_g]: 0
+_left_shift(MD5_F, MD5_S[j]): 148921744
+ md5 f: 2535593593
+ md5 a: 1396062341
+ md5 d: 2803548583
+ md5 c: 2952470327
+ md5 b: 395612504
+ md5 g: 0
+ new_message[ i * chunk_len + MD5_g]: 2147483648
+_left_shift(MD5_F, MD5_S[j]): 1738109473
+ md5 f: 961996786
+ md5 a: 2803548583
+ md5 d: 2952470327
+ md5 c: 395612504
+ md5 b: 1114738591
+ md5 g: 5
+ new_message[ i * chunk_len + MD5_g]: 0
+_left_shift(MD5_F, MD5_S[j]): 719126087
+ md5 f: 3151258969
+ md5 a: 2952470327
+ md5 d: 395612504
+ md5 c: 1114738591
+ md5 b: 3946595094
+ md5 g: 10
+ new_message[ i * chunk_len + MD5_g]: 0
+_left_shift(MD5_F, MD5_S[j]): 2831856503
+ md5 f: 3423737167
+ md5 a: 395612504
+ md5 d: 1114738591
+ md5 c: 3946595094
+ md5 b: 1888499226
+ md5 g: 15
+ new_message[ i * chunk_len + MD5_g]: 0
+_left_shift(MD5_F, MD5_S[j]): 2236871428
+ md5 f: 3901018938
+ md5 a: 1114738591
+ md5 d: 3946595094
+ md5 c: 1888499226
+ md5 b: 2755575399
+ md5 g: 4
+ new_message[ i * chunk_len + MD5_g]: 0
+_left_shift(MD5_F, MD5_S[j]): 867076173
+ md5 f: 353342355
+ md5 a: 3946595094
+ md5 d: 1888499226
+ md5 c: 2755575399
+ md5 b: 1177628873
+ md5 g: 9
+ new_message[ i * chunk_len + MD5_g]: 0
+_left_shift(MD5_F, MD5_S[j]): 2717020770
+ md5 f: 1924268889
+ md5 a: 1888499226
+ md5 d: 2755575399
+ md5 c: 1177628873
+ md5 b: 2855789486
+ md5 g: 14
+ new_message[ i * chunk_len + MD5_g]: 0
+_left_shift(MD5_F, MD5_S[j]): 1678160613
+ md5 f: 1201464911
+ md5 a: 2755575399
+ md5 d: 1177628873
+ md5 c: 2855789486
+ md5 b: 3821778325
+ md5 g: 3
+ new_message[ i * chunk_len + MD5_g]: 0
+_left_shift(MD5_F, MD5_S[j]): 965988839
+ md5 f: 3550529275
+ md5 a: 1177628873
+ md5 d: 2855789486
+ md5 c: 3821778325
+ md5 b: 1401483169
+ md5 g: 8
+ new_message[ i * chunk_len + MD5_g]: 0
+_left_shift(MD5_F, MD5_S[j]): 1874672140
+ md5 f: 870191487
+ md5 a: 2855789486
+ md5 d: 3821778325
+ md5 c: 1401483169
+ md5 b: 3477806983
+ md5 g: 13
+ new_message[ i * chunk_len + MD5_g]: 0
+_left_shift(MD5_F, MD5_S[j]): 2076323814
+ md5 f: 2054350667
+ md5 a: 3821778325
+ md5 d: 1401483169
+ md5 c: 3477806983
+ md5 b: 3038361211
+ md5 g: 2
+ new_message[ i * chunk_len + MD5_g]: 0
+_left_shift(MD5_F, MD5_S[j]): 3855521524
+ md5 f: 3901124245
+ md5 a: 1401483169
+ md5 d: 3477806983
+ md5 c: 3038361211
+ md5 b: 1354707100
+ md5 g: 7
+ new_message[ i * chunk_len + MD5_g]: 0
+_left_shift(MD5_F, MD5_S[j]): 2611313185
+ md5 f: 1355738407
+ md5 a: 3477806983
+ md5 d: 3038361211
+ md5 c: 1354707100
+ md5 b: 590626186
+ md5 g: 12
+ new_message[ i * chunk_len + MD5_g]: 0
+_left_shift(MD5_F, MD5_S[j]): 3530886382
+ md5 f: 2513966134
+ md5 a: 3038361211
+ md5 d: 1354707100
+ md5 c: 590626186
+ md5 b: 2159378675
+ md5 g: 5
+ new_message[ i * chunk_len + MD5_g]: 0
+_left_shift(MD5_F, MD5_S[j]): 1568752489
+ md5 f: 801782497
+ md5 a: 1354707100
+ md5 d: 590626186
+ md5 c: 2159378675
+ md5 b: 3532425841
+ md5 g: 8
+ new_message[ i * chunk_len + MD5_g]: 0
+_left_shift(MD5_F, MD5_S[j]): 1373047166
+ md5 f: 795461830
+ md5 a: 590626186
+ md5 d: 2159378675
+ md5 c: 3532425841
+ md5 b: 2605890010
+ md5 g: 11
+ new_message[ i * chunk_len + MD5_g]: 0
+_left_shift(MD5_F, MD5_S[j]): 3368431465
+ md5 f: 3934595310
+ md5 a: 2159378675
+ md5 d: 3532425841
+ md5 c: 2605890010
+ md5 b: 315096174
+ md5 g: 14
+ new_message[ i * chunk_len + MD5_g]: 0
+_left_shift(MD5_F, MD5_S[j]): 2004173460
+ md5 f: 2156804860
+ md5 a: 3532425841
+ md5 d: 2605890010
+ md5 c: 315096174
+ md5 b: 464235574
+ md5 g: 1
+ new_message[ i * chunk_len + MD5_g]: 0
+_left_shift(MD5_F, MD5_S[j]): 149139400
+ md5 f: 2963948444
+ md5 a: 2605890010
+ md5 d: 315096174
+ md5 c: 464235574
+ md5 b: 1841861051
+ md5 g: 4
+ new_message[ i * chunk_len + MD5_g]: 0
+_left_shift(MD5_F, MD5_S[j]): 1377625477
+ md5 f: 4138911517
+ md5 a: 315096174
+ md5 d: 464235574
+ md5 c: 1841861051
+ md5 b: 887523437
+ md5 g: 7
+ new_message[ i * chunk_len + MD5_g]: 0
+_left_shift(MD5_F, MD5_S[j]): 3340629682
+ md5 f: 336424638
+ md5 a: 464235574
+ md5 d: 1841861051
+ md5 c: 887523437
+ md5 b: 2482016036
+ md5 g: 10
+ new_message[ i * chunk_len + MD5_g]: 0
+_left_shift(MD5_F, MD5_S[j]): 1594492599
+ md5 f: 254132718
+ md5 a: 1841861051
+ md5 d: 887523437
+ md5 c: 2482016036
+ md5 b: 2253172228
+ md5 g: 13
+ new_message[ i * chunk_len + MD5_g]: 0
+_left_shift(MD5_F, MD5_S[j]): 4066123488
+ md5 f: 4190397186
+ md5 a: 887523437
+ md5 d: 2482016036
+ md5 c: 2253172228
+ md5 b: 2841953746
+ md5 g: 0
+ new_message[ i * chunk_len + MD5_g]: 2147483648
+_left_shift(MD5_F, MD5_S[j]): 588781518
+ md5 f: 3333332452
+ md5 a: 2482016036
+ md5 d: 2253172228
+ md5 c: 2841953746
+ md5 b: 1196002432
+ md5 g: 3
+ new_message[ i * chunk_len + MD5_g]: 0
+_left_shift(MD5_F, MD5_S[j]): 2649015982
+ md5 f: 14324607
+ md5 a: 2253172228
+ md5 d: 2841953746
+ md5 c: 1196002432
+ md5 b: 113899977
+ md5 g: 6
+ new_message[ i * chunk_len + MD5_g]: 0
+_left_shift(MD5_F, MD5_S[j]): 3212864841
+ md5 f: 1225141976
+ md5 a: 2841953746
+ md5 d: 1196002432
+ md5 c: 113899977
+ md5 b: 2536302413
+ md5 g: 9
+ new_message[ i * chunk_len + MD5_g]: 0
+_left_shift(MD5_F, MD5_S[j]): 2422402436
+ md5 f: 1726804411
+ md5 a: 1196002432
+ md5 d: 113899977
+ md5 c: 2536302413
+ md5 b: 4273652356
+ md5 g: 12
+ new_message[ i * chunk_len + MD5_g]: 0
+_left_shift(MD5_F, MD5_S[j]): 1737349943
+ md5 f: 3595298168
+ md5 a: 113899977
+ md5 d: 2536302413
+ md5 c: 4273652356
+ md5 b: 3828586703
+ md5 g: 15
+ new_message[ i * chunk_len + MD5_g]: 0
+_left_shift(MD5_F, MD5_S[j]): 3849901643
+ md5 f: 2713859494
+ md5 a: 2536302413
+ md5 d: 4273652356
+ md5 c: 3828586703
+ md5 b: 3078912489
+ md5 g: 15
+ new_message[ i * chunk_len + MD5_g]: 0
+_left_shift(MD5_F, MD5_S[j]): 3545293082
+ md5 f: 1598877381
+ md5 a: 4273652356
+ md5 d: 3828586703
+ md5 c: 3078912489
+ md5 b: 2327849792
+ md5 g: 0
+ new_message[ i * chunk_len + MD5_g]: 2147483648
+_left_shift(MD5_F, MD5_S[j]): 3543904599
+ md5 f: 1848498356
+ md5 a: 3828586703
+ md5 d: 3078912489
+ md5 c: 2327849792
+ md5 b: 1109589240
+ md5 g: 7
+ new_message[ i * chunk_len + MD5_g]: 0
+_left_shift(MD5_F, MD5_S[j]): 3076706744
+ md5 f: 1350799924
+ md5 a: 3078912489
+ md5 d: 2327849792
+ md5 c: 1109589240
+ md5 b: 188556601
+ md5 g: 14
+ new_message[ i * chunk_len + MD5_g]: 0
+_left_shift(MD5_F, MD5_S[j]): 3373934657
+ md5 f: 4046791529
+ md5 a: 2327849792
+ md5 d: 1109589240
+ md5 c: 188556601
+ md5 b: 2021346269
+ md5 g: 5
+ new_message[ i * chunk_len + MD5_g]: 0
+_left_shift(MD5_F, MD5_S[j]): 1832789668
+ md5 f: 3873305577
+ md5 a: 1109589240
+ md5 d: 188556601
+ md5 c: 2021346269
+ md5 b: 804800086
+ md5 g: 12
+ new_message[ i * chunk_len + MD5_g]: 0
+_left_shift(MD5_F, MD5_S[j]): 3078421113
+ md5 f: 1488019093
+ md5 a: 188556601
+ md5 d: 2021346269
+ md5 c: 804800086
+ md5 b: 4117928888
+ md5 g: 3
+ new_message[ i * chunk_len + MD5_g]: 0
+_left_shift(MD5_F, MD5_S[j]): 3313128802
+ md5 f: 3812365218
+ md5 a: 2021346269
+ md5 d: 804800086
+ md5 c: 4117928888
+ md5 b: 4282649942
+ md5 g: 10
+ new_message[ i * chunk_len + MD5_g]: 0
+_left_shift(MD5_F, MD5_S[j]): 164721054
+ md5 f: 137678837
+ md5 a: 804800086
+ md5 d: 4117928888
+ md5 c: 4282649942
+ md5 b: 4259648495
+ md5 g: 1
+ new_message[ i * chunk_len + MD5_g]: 0
+_left_shift(MD5_F, MD5_S[j]): 4271965849
+ md5 f: 2689220446
+ md5 a: 4117928888
+ md5 d: 4282649942
+ md5 c: 4259648495
+ md5 b: 276097943
+ md5 g: 8
+ new_message[ i * chunk_len + MD5_g]: 0
+_left_shift(MD5_F, MD5_S[j]): 311416744
+ md5 f: 3770313448
+ md5 a: 4282649942
+ md5 d: 4259648495
+ md5 c: 276097943
+ md5 b: 4196437785
+ md5 g: 15
+ new_message[ i * chunk_len + MD5_g]: 0
+_left_shift(MD5_F, MD5_S[j]): 3920339842
+ md5 f: 2358465784
+ md5 a: 4259648495
+ md5 d: 276097943
+ md5 c: 4196437785
+ md5 b: 2761741666
+ md5 g: 6
+ new_message[ i * chunk_len + MD5_g]: 0
+_left_shift(MD5_F, MD5_S[j]): 2860271177
+ md5 f: 1638694915
+ md5 a: 276097943
+ md5 d: 4196437785
+ md5 c: 2761741666
+ md5 b: 2768833266
+ md5 g: 13
+ new_message[ i * chunk_len + MD5_g]: 0
+_left_shift(MD5_F, MD5_S[j]): 7091600
+ md5 f: 151787949
+ md5 a: 4196437785
+ md5 d: 2761741666
+ md5 c: 2768833266
+ md5 b: 3893327412
+ md5 g: 4
+ new_message[ i * chunk_len + MD5_g]: 0
+_left_shift(MD5_F, MD5_S[j]): 1124494146
+ md5 f: 365032861
+ md5 a: 2761741666
+ md5 d: 2768833266
+ md5 c: 3893327412
+ md5 b: 4024822411
+ md5 g: 11
+ new_message[ i * chunk_len + MD5_g]: 0
+_left_shift(MD5_F, MD5_S[j]): 131494999
+ md5 f: 3882693080
+ md5 a: 2768833266
+ md5 d: 3893327412
+ md5 c: 4024822411
+ md5 b: 2295488065
+ md5 g: 2
+ new_message[ i * chunk_len + MD5_g]: 0
+_left_shift(MD5_F, MD5_S[j]): 2565632950
+ md5 f: 10949571
+ md5 a: 3893327412
+ md5 d: 4024822411
+ md5 c: 2295488065
+ md5 b: 20083491
+ md5 g: 9
+ new_message[ i * chunk_len + MD5_g]: 0
+_left_shift(MD5_F, MD5_S[j]): 2019562722
+md5 a b c d 3893327412 20083491 2295488065 4024822411
+end one round .. 
+md5 a0 b0 c0 d0 1330944309 4043316908 562903871 1588993
+end md5
+md5 a0 b0 c0 d0 899241039 2887647473 1060867361 20912128
+res: 3599544FAC1E00F13F3B8D2113F1800

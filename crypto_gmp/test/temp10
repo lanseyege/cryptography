@@ -1,0 +1,140 @@
+message: 0
+_ecc_p: 17
+_ecc_p: 23
+_ecc_a: 1
+_ecc_a: 1
+_ecc_b: 1
+_ecc_b: 1
+_ecc_n: 11
+_ecc_n: 17
+_ecc_Gx: 0
+_ecc_Gx: 0
+_ecc_Gy: 2
+_ecc_Gy: 2
+_ecc_embed_k: 30
+_ecc_d_key 1: 1
+_ecc_Gx 1: 0
+_ecc_Gy 1: 2
+_ecc_Qx_key 1: 0
+_ecc_Qy_key 1: 0
+ _k : 1
+2 1 
+_temp_k: 0
+lens: 2
+_temp_ecc_t2: 21
+i: 1 A: 1 
+Q_x 1: 0
+Q_y 1: 0
+Q_x 2: 0
+Q_y 2: 0
+Q_x 31: 0
+Q_y 31: 2
+
+atemp: 1
+_K: 1
+_ecc_d_key 2: 1
+_ecc_Gx 2: 0
+_ecc_Gy 2: 2
+_ecc_Qx_key 2: 0
+_ecc_Qy_key 2: 2
+_temp1 1: 3
+_temp2 2: -6
+_temp2_ 3: 19
+_slop 4: 57
+_slop 5: 11
+_temp3 6: 121
+_temp3 7: 118
+_three_x 8: 109
+_three_x 9: 17
+_temp2 10: -14
+_temp3 10: -154
+_three_y 11: -164
+_three_y 12: 20
+_temp_C1_y: 13
+C1_x: 3
+C1_y: 10
+C2_x: 9
+C2_y: 7
+_temp_x: 17
+_temp_y: 20
+_temp1 1: 7
+_temp2 2: 14
+_temp2_ 3: 5
+_slop 4: 35
+_slop 5: 12
+_temp3 6: 144
+_temp3 7: 127
+_three_x 8: 124
+_three_x 9: 9
+_temp2 10: 8
+_temp3 10: 96
+_three_y 11: 76
+_three_y 12: 7
+kk1: 9
+kk2: 7
+ s: 1
+_temp_x 2: 0
+_temp_y 2: 0
+double _temp_C1_x: 7
+double _temp_C1_y: 12
+C1_x: 3
+C1_y: 10
+ _k : 28
+7 0 0 -1 0 0 1 
+_temp_k: 0
+lens: 7
+_temp_ecc_t2: 13
+i: 6 A: 1 
+Q_x 1: 0
+Q_y 1: 0
+Q_x 2: 0
+Q_y 2: 0
+Q_x 31: 3
+Q_y 31: 10
+i: 5 A: 0 
+Q_x 1: 3
+Q_y 1: 10
+Q_x 2: 7
+Q_y 2: 12
+i: 4 A: 0 
+Q_x 1: 7
+Q_y 1: 12
+Q_x 2: 17
+Q_y 2: 3
+i: 3 A: -1 
+Q_x 1: 17
+Q_y 1: 3
+Q_x 2: 13
+Q_y 2: 16
+_temp1 1: 3
+_temp2 2: 10
+_temp2_ 3: 7
+_slop 4: 21
+_slop 5: 21
+_temp3 6: 441
+_temp3 7: 428
+_three_x 8: 425
+_three_x 9: 11
+_temp2 10: 2
+_temp3 10: 42
+_three_y 11: 26
+_three_y 12: 3
+Q_x 42: 11
+Q_y 42: 3
+i: 2 A: 0 
+Q_x 1: 11
+Q_y 1: 3
+Q_x 2: 4
+Q_y 2: 0
+i: 1 A: 0 
+Q_x 1: 4
+Q_y 1: 0
+Q_x 2: 4
+Q_y 2: 0
+
+atemp: 28
+_K: 28
+multiple _temp_C1_x: 4
+multiple _temp_C1_y: 0
+C1_x: 3
+C1_y: 10

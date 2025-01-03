@@ -1,0 +1,693 @@
+MD5_a0: 1732584193
+MD5_b0: -271733879
+MD5_c0: -1732584194
+MD5_d0: 271733878
+me len : 43
+message : The quick brown fox jumps over the lazy dog
+_temp: The quick brown fox jumps over the lazy dog€
+new message: 0x563323d15f60
+new len is: 2
+ size of : 8 4
+new len: 16
+new message: 0x563323d15f60
+01010100011010000110010100100000 1416127776
+01110001011101010110100101100011 1903520099
+01101011001000000110001001110010 1797284466
+01101111011101110110111000100000 1870097952
+01100110011011110111100000100000 1718581280
+01101010011101010110110101110000 1786080624
+01110011001000000110111101110110 1931505526
+01100101011100100010000001110100 1701978228
+01101000011001010010000001101100 1751457900
+01100001011110100111100100100000 1635416352
+01100100011011110110011010000000 1685022336
+00000000000000000000000000000000 0
+00000000000000000000000000000000 0
+00000000000000000000000000000000 0
+00000000000000000000000000000000 0
+00000000000000000000000101011000 344
+new message: 0x563323d15f60
+00100000011001010110100001010100 543516756
+01100011011010010111010101110001 1667855729
+01110010011000100010000001101011 1919033451
+00100000011011100111011101101111 544110447
+00100000011110000110111101100110 544763750
+01110000011011010111010101101010 1886221674
+01110110011011110010000001110011 1986994291
+01110100001000000111001001100101 1948283493
+01101100001000000110010101101000 1814062440
+00100000011110010111101001100001 544832097
+10000000011001100110111101100100 -2140770460
+00000000000000000000000000000000 0
+00000000000000000000000000000000 0
+00000000000000000000000000000000 0
+00000000000000000000000000000000 0
+01011000000000010000000000000000 1476460544
+chunk len: 1
+md5 a b c d 1732584193 -271733879 -1732584194 271733878
+new mes: 543516756
+ md5 f: -137360181
+left shift: -402233861
+ md5 a: 271733878
+ md5 b: -673967740
+ md5 c: -271733879
+ md5 d: -1732584194
+ md5 g: 0
+ new_message[ i * chunk_len + MD5_g]: 543516756
+_left_shift(MD5_F, MD5_S[j]): -402233861
+new mes: 1667855729
+ md5 f: 743591735
+left shift: 619934405
+ md5 a: -1732584194
+ md5 b: -54033335
+ md5 c: -673967740
+ md5 d: -271733879
+ md5 g: 1
+ new_message[ i * chunk_len + MD5_g]: 1667855729
+_left_shift(MD5_F, MD5_S[j]): 619934405
+new mes: 1919033451
+ md5 f: 118069700
+left shift: 864554515
+ md5 a: -271733879
+ md5 b: 810521180
+ md5 c: -54033335
+ md5 d: -673967740
+ md5 g: 2
+ new_message[ i * chunk_len + MD5_g]: 1919033451
+_left_shift(MD5_F, MD5_S[j]): 864554515
+new mes: 544110447
+ md5 f: -909020242
+left shift: -340626340
+ md5 a: -673967740
+ md5 b: 469894840
+ md5 c: 810521180
+ md5 d: -54033335
+ md5 g: 3
+ new_message[ i * chunk_len + MD5_g]: 544110447
+_left_shift(MD5_F, MD5_S[j]): -340626340
+new mes: 544763750
+ md5 f: -560983310
+left shift: 1208580463
+ md5 a: -54033335
+ md5 b: 1678475303
+ md5 c: 469894840
+ md5 d: 810521180
+ md5 g: 4
+ new_message[ i * chunk_len + MD5_g]: 544763750
+_left_shift(MD5_F, MD5_S[j]): 1208580463
+new mes: 1886221674
+ md5 f: -922561963
+left shift: 757423248
+ md5 a: 810521180
+ md5 b: -1859068745
+ md5 c: 1678475303
+ md5 d: 469894840
+ md5 g: 5
+ new_message[ i * chunk_len + MD5_g]: 1886221674
+_left_shift(MD5_F, MD5_S[j]): 757423248
+new mes: 1986994291
+ md5 f: 1525775121
+left shift: -165497374
+ md5 a: 469894840
+ md5 b: -2024566119
+ md5 c: -1859068745
+ md5 d: 1678475303
+ md5 g: 6
+ new_message[ i * chunk_len + MD5_g]: 1986994291
+_left_shift(MD5_F, MD5_S[j]): -165497374
+new mes: 1948283493
+ md5 f: 1853988565
+left shift: -1252286361
+ md5 a: 1678475303
+ md5 b: 1018114816
+ md5 c: -2024566119
+ md5 d: -1859068745
+ md5 g: 7
+ new_message[ i * chunk_len + MD5_g]: 1948283493
+_left_shift(MD5_F, MD5_S[j]): -1252286361
+new mes: 1814062440
+ md5 f: -1094689506
+left shift: 1613664095
+ md5 a: -1859068745
+ md5 b: -1663188385
+ md5 c: 1018114816
+ md5 d: -2024566119
+ md5 g: 8
+ new_message[ i * chunk_len + MD5_g]: 1814062440
+_left_shift(MD5_F, MD5_S[j]): 1613664095
+new mes: 544832097
+ md5 f: 1551786311
+left shift: -434866745
+ md5 a: -2024566119
+ md5 b: -2098055130
+ md5 c: -1663188385
+ md5 d: 1018114816
+ md5 g: 9
+ new_message[ i * chunk_len + MD5_g]: 544832097
+_left_shift(MD5_F, MD5_S[j]): -434866745
+new mes: -2140770460
+ md5 f: -996777804
+left shift: -1050048212
+ md5 a: 1018114816
+ md5 b: 1146863954
+ md5 c: -2098055130
+ md5 d: -1663188385
+ md5 g: 10
+ new_message[ i * chunk_len + MD5_g]: -2140770460
+_left_shift(MD5_F, MD5_S[j]): -1050048212
+new mes: 0
+ md5 f: 1591872717
+left shift: 861386883
+ md5 a: -1663188385
+ md5 b: 2008250837
+ md5 c: 1146863954
+ md5 d: -2098055130
+ md5 g: 11
+ new_message[ i * chunk_len + MD5_g]: 0
+_left_shift(MD5_F, MD5_S[j]): 861386883
+new mes: 0
+ md5 f: -859761421
+left shift: 1619687910
+ md5 a: -2098055130
+ md5 b: -667028549
+ md5 c: 2008250837
+ md5 d: 1146863954
+ md5 g: 12
+ new_message[ i * chunk_len + MD5_g]: 0
+_left_shift(MD5_F, MD5_S[j]): 1619687910
+new mes: 0
+ md5 f: -721544310
+left shift: -507990705
+ md5 a: 1146863954
+ md5 b: -1175019254
+ md5 c: -667028549
+ md5 d: 2008250837
+ md5 g: 13
+ new_message[ i * chunk_len + MD5_g]: 0
+_left_shift(MD5_F, MD5_S[j]): -507990705
+new mes: 0
+ md5 f: -922026305
+left shift: -41971179
+ md5 a: 2008250837
+ md5 b: -1216990433
+ md5 c: -1175019254
+ md5 d: -667028549
+ md5 g: 14
+ new_message[ i * chunk_len + MD5_g]: 0
+_left_shift(MD5_F, MD5_S[j]): -41971179
+new mes: 1476460544
+ md5 f: 317219744
+left shift: -402343400
+ md5 a: -667028549
+ md5 b: -1619333833
+ md5 c: -1216990433
+ md5 d: -1175019254
+ md5 g: 15
+ new_message[ i * chunk_len + MD5_g]: 1476460544
+_left_shift(MD5_F, MD5_S[j]): -402343400
+new mes: 1667855729
+ md5 f: -784842331
+left shift: 654849210
+ md5 a: -1175019254
+ md5 b: -964484623
+ md5 c: -1619333833
+ md5 d: -1216990433
+ md5 g: 1
+ new_message[ i * chunk_len + MD5_g]: 1667855729
+_left_shift(MD5_F, MD5_S[j]): 654849210
+new mes: 1986994291
+ md5 f: 2125554158
+left shift: 1657003261
+ md5 a: -1216990433
+ md5 b: 692518638
+ md5 c: -964484623
+ md5 d: -1619333833
+ md5 g: 6
+ new_message[ i * chunk_len + MD5_g]: 1986994291
+_left_shift(MD5_F, MD5_S[j]): 1657003261
+new mes: 0
+ md5 f: 664304214
+left shift: 513116646
+ md5 a: -1619333833
+ md5 b: 1205635284
+ md5 c: 692518638
+ md5 d: -964484623
+ md5 g: 11
+ new_message[ i * chunk_len + MD5_g]: 0
+_left_shift(MD5_F, MD5_S[j]): 513116646
+new mes: 543516756
+ md5 f: 425458707
+left shift: -1053715009
+ md5 a: -964484623
+ md5 b: 151920275
+ md5 c: 1205635284
+ md5 d: 692518638
+ md5 g: 0
+ new_message[ i * chunk_len + MD5_g]: 543516756
+_left_shift(MD5_F, MD5_S[j]): -1053715009
+new mes: 1886221674
+ md5 f: 1555940938
+left shift: -1749497525
+ md5 a: 692518638
+ md5 b: -1597577250
+ md5 c: 151920275
+ md5 d: 1205635284
+ md5 g: 5
+ new_message[ i * chunk_len + MD5_g]: 1886221674
+_left_shift(MD5_F, MD5_S[j]): -1749497525
+new mes: -2140770460
+ md5 f: -1263003268
+left shift: 1882388841
+ md5 a: 1205635284
+ md5 b: 284811591
+ md5 c: -1597577250
+ md5 d: 151920275
+ md5 g: 10
+ new_message[ i * chunk_len + MD5_g]: -2140770460
+_left_shift(MD5_F, MD5_S[j]): 1882388841
+new mes: 1476460544
+ md5 f: 424169636
+left shift: 338232914
+ md5 a: 151920275
+ md5 b: 623044505
+ md5 c: 284811591
+ md5 d: -1597577250
+ md5 g: 15
+ new_message[ i * chunk_len + MD5_g]: 1476460544
+_left_shift(MD5_F, MD5_S[j]): 338232914
+new mes: 544763750
+ md5 f: 1100378458
+left shift: 363075943
+ md5 a: -1597577250
+ md5 b: 986120448
+ md5 c: 623044505
+ md5 d: 284811591
+ md5 g: 4
+ new_message[ i * chunk_len + MD5_g]: 544763750
+_left_shift(MD5_F, MD5_S[j]): 363075943
+new mes: 544832097
+ md5 f: 417675197
+left shift: 480704419
+ md5 a: 284811591
+ md5 b: 1466824867
+ md5 c: 986120448
+ md5 d: 623044505
+ md5 g: 9
+ new_message[ i * chunk_len + MD5_g]: 544832097
+_left_shift(MD5_F, MD5_S[j]): 480704419
+new mes: 0
+ md5 f: -199833186
+left shift: 764624360
+ md5 a: 623044505
+ md5 b: -2063518069
+ md5 c: 1466824867
+ md5 d: 986120448
+ md5 g: 14
+ new_message[ i * chunk_len + MD5_g]: 0
+_left_shift(MD5_F, MD5_S[j]): 764624360
+new mes: 544110447
+ md5 f: 2140169522
+left shift: 424452068
+ md5 a: 986120448
+ md5 b: -1639066001
+ md5 c: -2063518069
+ md5 d: 1466824867
+ md5 g: 3
+ new_message[ i * chunk_len + MD5_g]: 544110447
+_left_shift(MD5_F, MD5_S[j]): 424452068
+new mes: 1814062440
+ md5 f: -2104536704
+left shift: 403187957
+ md5 a: 1466824867
+ md5 b: -1235878044
+ md5 c: -1639066001
+ md5 d: -2063518069
+ md5 g: 8
+ new_message[ i * chunk_len + MD5_g]: 1814062440
+_left_shift(MD5_F, MD5_S[j]): 403187957
+new mes: 0
+ md5 f: -1616914420
+left shift: -201653869
+ md5 a: -2063518069
+ md5 b: -1437531913
+ md5 c: -1235878044
+ md5 d: -1639066001
+ md5 g: 13
+ new_message[ i * chunk_len + MD5_g]: 0
+_left_shift(MD5_F, MD5_S[j]): -201653869
+new mes: 1919033451
+ md5 f: -1633409963
+left shift: 1212721981
+ md5 a: -1639066001
+ md5 b: -224809932
+ md5 c: -1437531913
+ md5 d: -1235878044
+ md5 g: 2
+ new_message[ i * chunk_len + MD5_g]: 1919033451
+_left_shift(MD5_F, MD5_S[j]): 1212721981
+new mes: 1948283493
+ md5 f: 871299172
+left shift: -1105654533
+ md5 a: -1235878044
+ md5 b: -1330464465
+ md5 c: -224809932
+ md5 d: -1437531913
+ md5 g: 7
+ new_message[ i * chunk_len + MD5_g]: 1948283493
+_left_shift(MD5_F, MD5_S[j]): -1105654533
+new mes: 0
+ md5 f: 874051605
+left shift: -2125250161
+ md5 a: -1437531913
+ md5 b: 839252670
+ md5 c: -1330464465
+ md5 d: -224809932
+ md5 g: 12
+ new_message[ i * chunk_len + MD5_g]: 0
+_left_shift(MD5_F, MD5_S[j]): -2125250161
+new mes: 1886221674
+ md5 f: -1964531896
+left shift: -1367739256
+ md5 a: -224809932
+ md5 b: -528486586
+ md5 c: 839252670
+ md5 d: -1330464465
+ md5 g: 5
+ new_message[ i * chunk_len + MD5_g]: 1886221674
+_left_shift(MD5_F, MD5_S[j]): -1367739256
+new mes: 1814062440
+ md5 f: 1223996660
+left shift: -1515740601
+ md5 a: -1330464465
+ md5 b: -2044227187
+ md5 c: -528486586
+ md5 d: 839252670
+ md5 g: 8
+ new_message[ i * chunk_len + MD5_g]: 1814062440
+_left_shift(MD5_F, MD5_S[j]): -1515740601
+new mes: 0
+ md5 f: 1923980998
+left shift: -1631161683
+ md5 a: 839252670
+ md5 b: 619578426
+ md5 c: -2044227187
+ md5 d: -528486586
+ md5 g: 11
+ new_message[ i * chunk_len + MD5_g]: 0
+_left_shift(MD5_F, MD5_S[j]): -1631161683
+new mes: 0
+ md5 f: 1923198395
+left shift: -575057706
+ md5 a: -528486586
+ md5 b: 44520720
+ md5 c: 619578426
+ md5 d: -2044227187
+ md5 g: 14
+ new_message[ i * chunk_len + MD5_g]: 0
+_left_shift(MD5_F, MD5_S[j]): -575057706
+new mes: 1667855729
+ md5 f: -1994977374
+left shift: -1854866904
+ md5 a: -2044227187
+ md5 b: -1810346184
+ md5 c: 44520720
+ md5 d: 619578426
+ md5 g: 1
+ new_message[ i * chunk_len + MD5_g]: 1667855729
+_left_shift(MD5_F, MD5_S[j]): -1854866904
+new mes: 544763750
+ md5 f: -1529876818
+left shift: 2138404134
+ md5 a: 619578426
+ md5 b: 328057950
+ md5 c: -1810346184
+ md5 d: 44520720
+ md5 g: 4
+ new_message[ i * chunk_len + MD5_g]: 544763750
+_left_shift(MD5_F, MD5_S[j]): 2138404134
+new mes: 1948283493
+ md5 f: 352100469
+left shift: -1602939652
+ md5 a: 44520720
+ md5 b: -1274881702
+ md5 c: 328057950
+ md5 d: -1810346184
+ md5 g: 7
+ new_message[ i * chunk_len + MD5_g]: 1948283493
+_left_shift(MD5_F, MD5_S[j]): -1602939652
+new mes: -2140770460
+ md5 f: 1969541920
+left shift: -1875201431
+ md5 a: -1810346184
+ md5 b: 1144884163
+ md5 c: -1274881702
+ md5 d: 328057950
+ md5 g: 10
+ new_message[ i * chunk_len + MD5_g]: -2140770460
+_left_shift(MD5_F, MD5_S[j]): -1875201431
+new mes: 0
+ md5 f: -1603902267
+left shift: 107367514
+ md5 a: 328057950
+ md5 b: 1252251677
+ md5 c: 1144884163
+ md5 d: -1274881702
+ md5 g: 13
+ new_message[ i * chunk_len + MD5_g]: 0
+_left_shift(MD5_F, MD5_S[j]): 107367514
+new mes: 543516756
+ md5 f: -651108560
+left shift: -2030467383
+ md5 a: -1274881702
+ md5 b: -778215706
+ md5 c: 1252251677
+ md5 d: 1144884163
+ md5 g: 0
+ new_message[ i * chunk_len + MD5_g]: 543516756
+_left_shift(MD5_F, MD5_S[j]): -2030467383
+new mes: 544110447
+ md5 f: -2006741370
+left shift: -1903785885
+ md5 a: 1144884163
+ md5 b: 1612965705
+ md5 c: -778215706
+ md5 d: 1252251677
+ md5 g: 3
+ new_message[ i * chunk_len + MD5_g]: 544110447
+_left_shift(MD5_F, MD5_S[j]): -1903785885
+new mes: 1986994291
+ md5 f: -1169020179
+left shift: 1994205461
+ md5 a: 1252251677
+ md5 b: -687796130
+ md5 c: 1612965705
+ md5 d: -778215706
+ md5 g: 6
+ new_message[ i * chunk_len + MD5_g]: 1986994291
+_left_shift(MD5_F, MD5_S[j]): 1994205461
+new mes: 544832097
+ md5 f: -1414411096
+left shift: -1155741046
+ md5 a: -778215706
+ md5 b: -1843537176
+ md5 c: -687796130
+ md5 d: 1612965705
+ md5 g: 9
+ new_message[ i * chunk_len + MD5_g]: 544832097
+_left_shift(MD5_F, MD5_S[j]): -1155741046
+new mes: 0
+ md5 f: -575134006
+left shift: -1053403411
+ md5 a: 1612965705
+ md5 b: 1398026709
+ md5 c: -1843537176
+ md5 d: -687796130
+ md5 g: 12
+ new_message[ i * chunk_len + MD5_g]: 0
+_left_shift(MD5_F, MD5_S[j]): -1053403411
+new mes: 1476460544
+ md5 f: -300916828
+left shift: 1604644368
+ md5 a: -687796130
+ md5 b: -1292296219
+ md5 c: 1398026709
+ md5 d: -1843537176
+ md5 g: 15
+ new_message[ i * chunk_len + MD5_g]: 1476460544
+_left_shift(MD5_F, MD5_S[j]): 1604644368
+new mes: 1919033451
+ md5 f: -2118091770
+left shift: 54583358
+ md5 a: -1843537176
+ md5 b: -1237712861
+ md5 c: -1292296219
+ md5 d: 1398026709
+ md5 g: 2
+ new_message[ i * chunk_len + MD5_g]: 1919033451
+_left_shift(MD5_F, MD5_S[j]): 54583358
+new mes: 543516756
+ md5 f: -1292945586
+left shift: -1144138836
+ md5 a: 1398026709
+ md5 b: 1913115599
+ md5 c: -1237712861
+ md5 d: -1292296219
+ md5 g: 0
+ new_message[ i * chunk_len + MD5_g]: 543516756
+_left_shift(MD5_F, MD5_S[j]): -1144138836
+new mes: 1948283493
+ md5 f: -740452403
+left shift: 1985951567
+ md5 a: -1292296219
+ md5 b: -395900130
+ md5 c: 1913115599
+ md5 d: -1237712861
+ md5 g: 7
+ new_message[ i * chunk_len + MD5_g]: 1948283493
+_left_shift(MD5_F, MD5_S[j]): 1985951567
+new mes: 0
+ md5 f: -93491299
+left shift: -1211171530
+ md5 a: -1237712861
+ md5 b: -1607071660
+ md5 c: -395900130
+ md5 d: 1913115599
+ md5 g: 14
+ new_message[ i * chunk_len + MD5_g]: 0
+_left_shift(MD5_F, MD5_S[j]): -1211171530
+new mes: 1886221674
+ md5 f: 1758739760
+left shift: -1509090681
+ md5 a: 1913115599
+ md5 b: 1178804955
+ md5 c: -1607071660
+ md5 d: -395900130
+ md5 g: 5
+ new_message[ i * chunk_len + MD5_g]: 1886221674
+_left_shift(MD5_F, MD5_S[j]): -1509090681
+new mes: 0
+ md5 f: -816763839
+left shift: -733278093
+ md5 a: -395900130
+ md5 b: 445526862
+ md5 c: 1178804955
+ md5 d: -1607071660
+ md5 g: 12
+ new_message[ i * chunk_len + MD5_g]: 0
+_left_shift(MD5_F, MD5_S[j]): -733278093
+new mes: 544110447
+ md5 f: -1318116269
+left shift: -1131327803
+ md5 a: -1607071660
+ md5 b: -685800941
+ md5 c: 445526862
+ md5 d: 1178804955
+ md5 g: 3
+ new_message[ i * chunk_len + MD5_g]: 544110447
+_left_shift(MD5_F, MD5_S[j]): -1131327803
+new mes: -2140770460
+ md5 f: 96360622
+left shift: 743899871
+ md5 a: 1178804955
+ md5 b: 58098930
+ md5 c: -685800941
+ md5 d: 445526862
+ md5 g: 10
+ new_message[ i * chunk_len + MD5_g]: -2140770460
+_left_shift(MD5_F, MD5_S[j]): 743899871
+new mes: 1667855729
+ md5 f: 1603880189
+left shift: -1616121048
+ md5 a: 445526862
+ md5 b: -1558022118
+ md5 c: 58098930
+ md5 d: -685800941
+ md5 g: 1
+ new_message[ i * chunk_len + MD5_g]: 1667855729
+_left_shift(MD5_F, MD5_S[j]): -1616121048
+new mes: 1814062440
+ md5 f: -1628696559
+left shift: -1157364633
+ md5 a: -685800941
+ md5 b: 1579580545
+ md5 c: -1558022118
+ md5 d: 58098930
+ md5 g: 8
+ new_message[ i * chunk_len + MD5_g]: 1814062440
+_left_shift(MD5_F, MD5_S[j]): -1157364633
+new mes: 1476460544
+ md5 f: -1965395830
+left shift: 1774332459
+ md5 a: 58098930
+ md5 b: -941054292
+ md5 c: 1579580545
+ md5 d: -1558022118
+ md5 g: 15
+ new_message[ i * chunk_len + MD5_g]: 1476460544
+_left_shift(MD5_F, MD5_S[j]): 1774332459
+new mes: 1986994291
+ md5 f: -1631403035
+left shift: 1643302753
+ md5 a: -1558022118
+ md5 b: 702248461
+ md5 c: -941054292
+ md5 d: 1579580545
+ md5 g: 6
+ new_message[ i * chunk_len + MD5_g]: 1986994291
+_left_shift(MD5_F, MD5_S[j]): 1643302753
+new mes: 0
+ md5 f: 1599986574
+left shift: 1909189563
+ md5 a: 1579580545
+ md5 b: -1683529272
+ md5 c: 702248461
+ md5 d: -941054292
+ md5 g: 13
+ new_message[ i * chunk_len + MD5_g]: 0
+_left_shift(MD5_F, MD5_S[j]): 1909189563
+new mes: 544763750
+ md5 f: 140409407
+left shift: 396267458
+ md5 a: -941054292
+ md5 b: -1287261814
+ md5 c: -1683529272
+ md5 d: 702248461
+ md5 g: 4
+ new_message[ i * chunk_len + MD5_g]: 544763750
+_left_shift(MD5_F, MD5_S[j]): 396267458
+new mes: 0
+ md5 f: -236572397
+left shift: -1731964985
+ md5 a: 702248461
+ md5 b: 1275740497
+ md5 c: -1287261814
+ md5 d: -1683529272
+ md5 g: 11
+ new_message[ i * chunk_len + MD5_g]: 0
+_left_shift(MD5_F, MD5_S[j]): -1731964985
+new mes: 1919033451
+ md5 f: -1506502608
+left shift: 1276662554
+ md5 a: -1683529272
+ md5 b: -1742564245
+ md5 c: 1275740497
+ md5 d: -1287261814
+ md5 g: 2
+ new_message[ i * chunk_len + MD5_g]: 1919033451
+_left_shift(MD5_F, MD5_S[j]): 1276662554
+new mes: 544832097
+ md5 f: 945327848
+left shift: -586740975
+ md5 a: -1287261814
+ md5 b: 1965662076
+ md5 c: -1742564245
+ md5 d: 1275740497
+ md5 g: 9
+ new_message[ i * chunk_len + MD5_g]: 544832097
+_left_shift(MD5_F, MD5_S[j]): -586740975
+md5 a b c d -1287261814 1965662076 -1742564245 1275740497
+end one round .. 
+md5 a0 b0 c0 d0 445322379 1693928197 819818857 1547474375
+end md5
+md5 a0 b0 c0 d0 -1961587942 88864612 1769069872 -946520996
+res: 8b148b1a054bf7646971dd30c7953c5c
